@@ -3,7 +3,7 @@ import gc
 import badger_os
 
 # **** Put the name of your text file here *****
-text_file = "/books/289-0-wind-in-the-willows-abridged.txt"  # File must be on the MicroPython device
+text_file = "/books/mona.txt"  # File must be on the MicroPython device
 
 gc.collect()
 
